@@ -4,6 +4,7 @@ The application has CRUD functionality on existing resources.It also has token-b
 using JWT library where some routes are protected. Users can also upload binary files to the application.
 
 # Technologies used
+* Nodejs runtime environment<br/>
 * Express Backend JavaScript framework <br/>
 * MongoDB Cloud Database <br/>
 * Mongoose ODM (Object Document Modelling)<br/>
