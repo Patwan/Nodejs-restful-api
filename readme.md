@@ -17,7 +17,7 @@ using JWT library where some routes are protected. Users can also upload binary 
 * Run **npm install** to install depedencies listed in package.json file<br/>
 * Edit your database credentials in the  **app.js** in **mongoose.connect()** <br/>
 * Edit your server PORT in  server.js file.<br/>
-* Run **npm start** to start the development server with hot reload <br/>
+* Run **npm start** to start the development server with hot reload (via nodemon) <br/>
 
 ## License
 This program is free software published under the terms of the GNU [Lesser General Public License](http://www.gnu.org/copyleft/lesser.html). <br/>
