@@ -1,11 +1,7 @@
 # Nodejs RESTFUL API 
-A simple project illustrating creation of a RESTFUL API using Nodejs and Express JavaScript framework.
-The application has CRUD functionality on existing resources. Users can also  It also has token-based authentication
-using JWT library. 
-
- has authentication functionality whereby a user
-can register and login and perform CRUD funcionality on existing users. Data from the backend
-is exposed via a RESTFUL API.
+A project illustrating creation of a MVC RESTFUL API using Nodejs and Express JavaScript framework.
+The application has CRUD functionality on existing resources.It also has token-based authentication
+using JWT library where some routes are protected. Users can also upload binary files to the application.
 
 # Technologies used
 * Express Backend JavaScript framework <br/>
