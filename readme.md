@@ -18,7 +18,7 @@ is exposed via a RESTFUL API.
 # Installation
 * Clone the project.  **git clone project-name**  <br/>
 * Run **npm install** to install depedencies listed in package.json file<br/>
-* Edit your database credentials in the  **app.js** file <br/>
+* Edit your database credentials in the  **app.js** in **mongoose.connect()** <br/>
 * Edit your server PORT in  server.js file.<br/>
 * Run **npm start** to start the development server with hot reload. <br/>
 
